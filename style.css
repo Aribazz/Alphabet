@@ -1,0 +1,95 @@
+body {
+  background-color: #26264e;
+}
+#title,
+footer {
+  text-align: center;
+  color: wheat;
+  font-size: 30px;
+}
+h1 {
+  font-size: 8rem;
+  color: #dbedf3;
+  font-family: "arvo", cursive;
+  text-shadow: 3px 0 #da8463;
+}
+footer {
+  color: #dbedf3;
+  font-family: sans-serif;
+}
+.a {
+  background-image: url(img/hero.jpg);
+}
+.b {
+  background-image: url(img/IMG_9235.JPG);
+}
+.c {
+  background-image: url(img/IMG_9238.JPG);
+}
+.d {
+  background-image: url(img/roi-design-1.jpg);
+}
+.e {
+  background-image: url(img/startup-slider.jpg);
+}
+.f {
+  background-image: url(img/zz3.jpg);
+}
+.g,
+.o {
+  background-image: url(img/hero.jpg);
+}
+.h,
+.p {
+  background-image: url(img/hero.jpg);
+}
+.i,
+.q {
+  background-image: url(img/IMG_9235.JPG);
+}
+.j,
+.r {
+  background-image: url(img/IMG_9238.JPG);
+}
+.k,
+.s {
+  background-image: url(img/roi-design-1.jpg);
+}
+.l,
+.t {
+  background-image: url(img/startup-slider.jpg);
+}
+.m,
+.u {
+  background-image: url(img/zz3.jpg);
+}
+.n {
+  background-image: url(img/zz3.jpg);
+}
+
+.set {
+  margin: 10% auto;
+}
+.pressed {
+  box-shadow: 0 10px 4px 0 #14044b;
+  opacity: 0.5;
+}
+.red {
+  color: red;
+}
+.drum {
+  outline: none;
+  border: 10px solid #dbedf3;
+  font-size: 5rem;
+  font-family: "Avro", "cursive";
+  line-height: 2;
+  font-weight: 900;
+  color: #da8463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+}
